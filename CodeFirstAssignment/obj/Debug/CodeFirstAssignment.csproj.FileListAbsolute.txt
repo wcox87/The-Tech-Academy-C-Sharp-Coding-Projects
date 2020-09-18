@@ -1,0 +1,12 @@
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-C-Sharp-Coding-Projects\CodeFirstAssignment\obj\Debug\CodeFirstAssignment.csprojAssemblyReference.cache
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-C-Sharp-Coding-Projects\CodeFirstAssignment\obj\Debug\CodeFirstAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-C-Sharp-Coding-Projects\CodeFirstAssignment\bin\Debug\CodeFirstAssignment.exe.config
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-C-Sharp-Coding-Projects\CodeFirstAssignment\bin\Debug\CodeFirstAssignment.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-C-Sharp-Coding-Projects\CodeFirstAssignment\bin\Debug\CodeFirstAssignment.pdb
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-C-Sharp-Coding-Projects\CodeFirstAssignment\bin\Debug\EntityFramework.dll
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-C-Sharp-Coding-Projects\CodeFirstAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-C-Sharp-Coding-Projects\CodeFirstAssignment\bin\Debug\EntityFramework.xml
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-C-Sharp-Coding-Projects\CodeFirstAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-C-Sharp-Coding-Projects\CodeFirstAssignment\obj\Debug\CodeFirstAssignment.csproj.CopyComplete
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-C-Sharp-Coding-Projects\CodeFirstAssignment\obj\Debug\CodeFirstAssignment.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-C-Sharp-Coding-Projects\CodeFirstAssignment\obj\Debug\CodeFirstAssignment.pdb
